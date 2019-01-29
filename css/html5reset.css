@@ -24,7 +24,8 @@ time, mark, audio, video {
     outline:0;
     font-size:100%;
     vertical-align:baseline;
-    background:#555000;
+    background:#ffdede;
+    font-family: "Arial Black", Gadget, sans-serif;
 }
 
 body {

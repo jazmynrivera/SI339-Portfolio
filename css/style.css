@@ -1,14 +1,3 @@
-body {
-    margin:0;
-    padding:0;
-    border:0;
-    outline:0;
-    font-size:100%;
-    vertical-align:baseline;
-    background:#ffdede;
-    font-family: "Arial Black", Gadget, sans-serif;
-}
-
 a.current{
 	font-size: 150%;
 	text-decoration: underline;
