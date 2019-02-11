@@ -40,3 +40,23 @@ a.skip-main:focus, a.skip-main:active {
     font-size:1.2em;
     z-index:999;
 }
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.grid-container img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
